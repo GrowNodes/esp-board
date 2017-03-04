@@ -1,0 +1,8 @@
+esp-board
+R1 6 2 4.7k
+R3 4 2 4.7k
+R2 5 2 4.7k
+
+.TRAN 1ms 100ms
+* .AC DEC 100 100 1MEG
+.END
